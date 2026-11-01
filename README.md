@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NoodleGameDev.
-- 👀 I’m interested in Game Development and SRE.
-- 🌱 I’m currently learning Game Engine development, for pleasure :)
-- 💞️ I’m looking to collaborate developing a none-standard Roguelike.
+- 👋 Hi, I’m Eitan Ezra.
+- 👀 I’m interested in Data Warehouses, RegTech and GameDev.
 - 📫 How to reach me ... don't reach me ❤
 
 <!---
